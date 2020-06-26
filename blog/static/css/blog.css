@@ -70,3 +70,9 @@ p {
     font-family: 'Roboto', sans-serif;
     font-size: 16pt;
 }
+
+.edit-title {
+    color: #e4dcdc;
+    font-size: 22pt;
+    font-family: 'Roboto', sans-serif;
+}
